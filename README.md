@@ -3,7 +3,6 @@
 ### Considerations
 - Nodejs 16
 - Vue 3
-- Typescript 4.5.5
 
 ### See de Proyect deployed
 ```
