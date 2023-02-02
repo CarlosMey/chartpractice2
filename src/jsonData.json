@@ -1,0 +1,72 @@
+[
+    {
+        "days":"Mon",
+        "grados":20,
+        "humidity":"56%",
+        "air-quality":151,
+        "sunrise":"6:45 AM",
+        "sunset":"6:15 PM",
+        "monthly-rainfall":22,
+        "this-year":2
+    },
+    {
+        "days":"Thu",
+        "grados":20,
+        "humidity":"56%",
+        "air-quality":151,
+        "sunrise":"6:45 AM",
+        "sunset":"6:15 PM",
+        "monthly-rainfall":22,
+        "this-year":2
+    },
+    {
+        "days":"Wes",
+        "grados":20,
+        "humidity":"56%",
+        "air-quality":151,
+        "sunrise":"6:45 AM",
+        "sunset":"6:15 PM",
+        "monthly-rainfall":22,
+        "this-year":2
+    },
+    {
+        "days":"Thur",
+        "grados":20,
+        "humidity":"56%",
+        "air-quality":151,
+        "sunrise":"6:45 AM",
+        "sunset":"6:15 PM",
+        "monthly-rainfall":22,
+        "this-year":2
+    },
+    {
+        "days":"Fri",
+        "grados":20,
+        "humidity":"56%",
+        "air-quality":151,
+        "sunrise":"6:45 AM",
+        "sunset":"6:15 PM",
+        "monthly-rainfall":22,
+        "this-year":2
+    },
+    {
+        "days":"Sat",
+        "grados":20,
+        "humidity":"56%",
+        "air-quality":151,
+        "sunrise":"6:45 AM",
+        "sunset":"6:15 PM",
+        "monthly-rainfall":22,
+        "this-year":2
+    },
+    {
+        "days":"Sun",
+        "grados":20,
+        "humidity":"56%",
+        "air-quality":151,
+        "sunrise":"6:45 AM",
+        "sunset":"6:15 PM",
+        "monthly-rainfall":22,
+        "this-year":2
+    }
+]
